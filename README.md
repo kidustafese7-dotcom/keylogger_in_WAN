@@ -9,6 +9,8 @@ This repository contains two main scripts:
 
 ## 1. Keylogger Script
 
+# start port forwarding on port 6060 and put the link on the code keylog_url.py
+
 ### Description
 This script listens for keyboard events and buffers the keystrokes. Every 10 seconds, it sends the accumulated logs to a specified webhook URL via HTTP POST request.
 
