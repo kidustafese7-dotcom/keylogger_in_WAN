@@ -1,0 +1,8 @@
+urllib.parse
+http.server
+SimpleHTTPRequestHandler
+HTTPServer
+pynput
+requests
+time
+threading
